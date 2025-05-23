@@ -46,7 +46,7 @@ To train the model, run:
     
 To run real-time gesture recognition using your webcam:
   
-   python predict.py
+    python predict.py
   
 ## 🎯 Results
 - The model currently achieves moderate accuracy on the ASL Alphabet dataset, with some misclassifications.
