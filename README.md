@@ -18,10 +18,15 @@ The goal of this project is to recognize ASL alphabets using a trained CNN model
 
 ## 📁 Directory Structure
 hand-gesture-recognition/
+
 ├── data/ # ASL dataset files (images)
+
 ├── models/ # Saved trained CNN models
+
 ├── train.py # Script to train the CNN model
+
 ├── predict.py # Script for real-time or batch prediction
+
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
@@ -31,6 +36,7 @@ hand-gesture-recognition/
    git clone https://github.com/yourusername/hand-gesture-recognition.git
    cd hand-gesture-recognition
 2.Install required packages:
+
    pip install -r requirements.txt
    
 ## ▶️ Usage
