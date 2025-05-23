@@ -37,12 +37,14 @@ hand-gesture-recognition/
    cd hand-gesture-recognition
 2.Install required packages:
 
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    
 ## ▶️ Usage
 To train the model, run:
+  
   python train.py
 To run real-time gesture recognition using your webcam:
+  
   python predict.py
   
 ## 🎯 Results
