@@ -28,6 +28,7 @@ hand-gesture-recognition/
 ├── predict.py # Script for real-time or batch prediction
 
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ## 💾 Installation
